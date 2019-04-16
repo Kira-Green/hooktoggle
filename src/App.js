@@ -3,6 +3,7 @@ import logo from "./logo.svg";
 import "./App.css";
 import Toggle from "../src/Components/Toggle";
 import Timer from "../src/Components/Timer";
+import Dadjoke from "./Components/Dadjoke";
 
 class App extends Component {
 	render() {
@@ -14,8 +15,9 @@ class App extends Component {
 						Edit <code>src/App.js</code> and save to reload.
 					</p>
 
-					<Toggle />
-					<Timer />
+					{/* <Toggle />
+					<Timer /> */}
+					<Dadjoke />
 				</header>
 			</div>
 		);
