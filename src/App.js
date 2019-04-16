@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import logo from "./logo.svg";
 import "./App.css";
 import Toggle from "../src/Components/Toggle";
+import Timer from "../src/Components/Timer";
 
 class App extends Component {
 	render() {
@@ -14,6 +15,7 @@ class App extends Component {
 					</p>
 
 					<Toggle />
+					<Timer />
 				</header>
 			</div>
 		);
