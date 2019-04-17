@@ -4,6 +4,7 @@ import "./App.css";
 import Toggle from "../src/Components/Toggle";
 import Timer from "../src/Components/Timer";
 import Dadjoke from "./Components/Dadjoke";
+import Dadjoke2 from "../src/Components/Dadjoke2";
 
 class App extends Component {
 	render() {
@@ -17,7 +18,7 @@ class App extends Component {
 
 					{/* <Toggle />
 					<Timer /> */}
-					<Dadjoke />
+					<Dadjoke2 />
 				</header>
 			</div>
 		);

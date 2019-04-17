@@ -2,7 +2,9 @@
 
 ## a toggle button
 
-##a timer (to be finished!)
+##a timer
+
+## a fetch hook that gets a joke from an api
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
